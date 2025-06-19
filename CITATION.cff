@@ -12,23 +12,15 @@ authors:
     family-names: Delgado-Quesada
     email: jdelga19@ur.rochester.edu
     affiliation: >-
-      Centro de Investigación en Ciencia e Ingeniería de
-      Materiales
+      Escuela de Física, Universidad de Costa Rica, Costa
+      Rica
     orcid: 'https://orcid.org/0009-0004-4958-3638'
-  - given-names: David
-    family-names: Barral
-    orcid: 'https://orcid.org/0000-0001-6658-4684'
-    affiliation: 'Galicia Supercomputing Center '
-  - given-names: Kamel
-    family-names: Bencheikh
-    orcid: 'https://orcid.org/0000-0001-5492-1428'
-    affiliation: Centre de Nanosciences et de Nanotechnologies
   - given-names: Edgar A.
     family-names: Rojas-González
     email: '*Contactauthor:edgar.rojasgonzalez@ucr.ac.cr'
     affiliation: >-
-      Centro de Investigación en Ciencia e Ingeniería de
-      Materiales
+      Escuela de Física, Universidad de Costa Rica, Costa
+      Rica
     orcid: 'https://orcid.org/0000-0003-0393-0273'
 identifiers:
   - type: doi
